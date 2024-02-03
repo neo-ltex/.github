@@ -1,0 +1,7 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe work was originally created by Julian Valentin, which based off of LanguageTool for Visual Studio Code extension by Adam Voss†\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe work was originally created by Julian Valentin, which based off of LanguageTool for Visual Studio Code extension by Adam Voss†\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe work was originally created by Julian Valentin, which based off of LanguageTool for Visual Studio Code extension by Adam Voss†\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe work was originally created by Julian Valentin, which based off of LanguageTool for Visual Studio Code extension by Adam Voss†\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe work was originally created by Julian Valentin, which based off of LanguageTool for Visual Studio Code extension by Adam Voss†\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qneo-ltex/.github\\E$"}
+{"rule":"GITHUB","sentence":"^\\Qneo-ltex/.github\\E$"}
