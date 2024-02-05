@@ -4,8 +4,8 @@
     "DavidAnson.vscode-markdownlint",
     "editorconfig.editorconfig",
     "github.vscode-pull-request-github",
+    "neo-ltex.ltex",
     "redhat.vscode-yaml",
-    "valentjn.vscode-ltex",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
   ]
 }
